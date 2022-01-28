@@ -21,7 +21,7 @@ The MODKEY is set to MOD4 (Super key).
 
 #### Main Keybindings
 
- Keybinding              | Action                                                        |
+|       Keybinding              | Action                                                       |
 |-------------------------------|--------------------------------------------------------------|
 | MODKEY + RETURN               | opens gnome-terminal                                         |
 | MODKEY + SHIFT + RETURN       | opens st                                                     |
@@ -50,4 +50,17 @@ The MODKEY is set to MOD4 (Super key).
 | MODKEY + r             | spiral layout              |
 | MODKEY + SHIFT + r     | dwindle layout (bsp)       |
 | MODKEY + SHIFT + SPACE | toggle floating windows    |
+
+
+## Installation
+
+```
+git clone https://github.com/thunderthief5/dwm.git
+cd dwm
+sudo make clean install
+```
+
+## Credits
+
+* Forked from [https://dwm.suckless.org/](https://dwm.suckless.org/)
 

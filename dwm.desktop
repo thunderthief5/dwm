@@ -2,7 +2,6 @@
 Encoding=UTF-8
 Name=dwm
 Comment=Dynamic window manager
-#Exec=dwm
-Exec=/home/thunderthief/.local/bin/dwm
+Exec=dwm
 Icon=dwm
 Type=XSession

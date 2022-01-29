@@ -30,10 +30,10 @@ The MODKEY is set to MOD4 (Super key).
 | MODKEY + b                    | hides the bar                                                |
 | MODKEY + 1-4                  | switch focus to workspace (1-4)                              |
 | MODKEY + SHIFT + 1-4          | send focused window to workspace (1-4)                       |
-| MODKEY + j                    | focus stack +1 (switches focus between windows in the stack) |
-| MODKEY + k                    | focus stack -1 (switches focus between windows in the stack) |
-| MODKEY + SHIFT + j            | rotate stack +1 (rotates the windows in the stack)           |
-| MODKEY + SHIFT + k            | rotate stack -1 (rotates the windows in the stack)           |
+| MODKEY + Down                 | focus stack +1 (switches focus between windows in the stack) |
+| MODKEY + Up                   | focus stack -1 (switches focus between windows in the stack) |
+| MODKEY + SHIFT + Down         | rotate stack +1 (rotates the windows in the stack)           |
+| MODKEY + SHIFT + Up           | rotate stack -1 (rotates the windows in the stack)           |
 | MODKEY + h                    | setmfact -0.005 (expands size of window)                     |
 | MODKEY + l                    | setmfact +0.005 (shrinks size of window)                     |
 | MODKEY + CONTROL + Left,Right | switch focus to adjacent workspace                           |
